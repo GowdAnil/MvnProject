@@ -64,7 +64,7 @@
   </dependencies>
 
   <build>
-    <finalName>docker</finalName>
+    <finalName>DevOps</finalName>
     <sourceDirectory>src/java</sourceDirectory>
     <outputDirectory>target/classes</outputDirectory>
     <plugins>
